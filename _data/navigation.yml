@@ -2,13 +2,9 @@
 main:
   - title: "Packages"
     url: /Packages/
-  # - title: "Publications"
-  #   url: /Publications/
-  # - title: "Teaching"
-  #   url: /Teaching/
-  # - title: "Students"
-  #   url: /Students/
-  # - title: "Media"
-  #   url: /Media/
-  # - title: "Outreach"
-  #   url: /Outreach/
+  # - title: "Chinese Translation"
+  #   url: /Chinese Translation/
+  # - title: "T&Cs"
+  #   url: /T&Cs/
+  # - title: "About Me"
+  #   url: /About Me/
