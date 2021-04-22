@@ -108,7 +108,7 @@ author:
       url: ""
     - label: "linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/independent-english"
+      url: "https://www.linkedin.com/in/independent-english"
 
 # Reading Files
 include:
