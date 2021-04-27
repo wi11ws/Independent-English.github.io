@@ -2,9 +2,11 @@
 main:
   - title: "Courses"
     url: /Courses/
-  # - title: "Chinese Translation"
-  #   url: /Chinese Translation/
+  - title: "Student Map"
+    url: /Student Map/
   # - title: "T&Cs"
   #   url: /T&Cs/
   # - title: "About Me"
   #   url: /About Me/
+ # - title: "Chinese Translation"
+  #   url: /Chinese Translation/
