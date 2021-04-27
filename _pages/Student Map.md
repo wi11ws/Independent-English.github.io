@@ -3,5 +3,5 @@ permalink: /Student Map/
 title: "Student Map"
 classes: wide
 ---
-<img src="/assets/images/student%20map.png.png">
+<img src="/assets/images/student%20map.png">
 
