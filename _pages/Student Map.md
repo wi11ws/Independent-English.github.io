@@ -2,6 +2,7 @@
 permalink: /Student Map/
 title: "Student Map"
 classes: wide
+share=false
 
 feature_row1:
   - image_path: /assets/studentmap.png
