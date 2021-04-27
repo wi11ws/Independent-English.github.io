@@ -10,4 +10,4 @@ feature_row1:
     excerpt: "Where my students are from"
 ---
 {% include feature_row id="feature_row1" %}
-#<img src="/assets/images/studentmap.png">
+
