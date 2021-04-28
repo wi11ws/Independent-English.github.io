@@ -4,6 +4,5 @@ title: "Student Map"
 classes: wide
 share: false
 ---
-<figure>
-    <a><img src="/assets/images/logo.png"></a>
-</figure>
+<img src="/assets/images/studentmap.jpg">
+<img src="/assets/images/studentmap.png">
