@@ -1,5 +1,5 @@
 ---
-permalink: /Student Map/
+permalink: /StudentMap/
 title: "Student Map"
 classes: wide
 share: false
