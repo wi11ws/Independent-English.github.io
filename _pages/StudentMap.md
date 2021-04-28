@@ -1,8 +1,6 @@
 ---
 permalink: /StudentMap/
-layout: splash
 title: "Student Map"
-author_profile: true
 classes: wide
 share: false
 ---
