@@ -6,5 +6,4 @@ share: false
 ---
 <figure>
     <a href="/assets/images/studentmap.png"><img src="/assets/images/studentmap.png"></a>
-    <figcaption>Caption describing these two images.</figcaption>
 </figure>
