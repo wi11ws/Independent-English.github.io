@@ -4,5 +4,6 @@ title: "Student Map"
 classes: wide
 share: false
 ---
-
-<img src="/assets/images/logo.png">
+<figure>
+    <a><img src="/assets/images/logo.png"></a>
+</figure>
