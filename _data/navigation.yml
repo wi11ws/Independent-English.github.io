@@ -8,7 +8,7 @@ main:
   #   url: /Other Services/
  # - title: "T&Cs"
   #   url: /T&Cs/
-   - title: "About Me"
-     url: /AboutMe/
+ - title: "About Me"
+   url: /AboutMe/
  # - title: "Chinese Translation"
   #   url: /Chinese Translation/
