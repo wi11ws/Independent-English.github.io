@@ -1,5 +1,5 @@
 ---
-permalink: /About Me/
+permalink: /AboutMe/
 title: "About Me"
 classes: wide
 share: false
