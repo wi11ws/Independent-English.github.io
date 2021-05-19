@@ -4,11 +4,5 @@ main:
     url: /Courses/
   - title: "Student Map"
     url: /StudentMap/
-  # - title: "Other Services"
-  #   url: /Other Services/
- # - title: "T&Cs"
-  #   url: /T&Cs/
- - title: "About Me"
-   url: /AboutMe/
- # - title: "Chinese Translation"
-  #   url: /Chinese Translation/
+  - title: "About Me"
+    url: /AboutMe/
